@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: Caldina;
-  src: url(/fonts/Caldina.ttf);
+  src: url(../fonts/Caldina.ttf);
 }
 
 html {
@@ -115,22 +115,22 @@ html {
 }
 
 .slide1 {
-  background: url(/images/slide2.jpg) no-repeat center;
+  background: url(../images/slide2.jpg) no-repeat center;
   animation: fade1 15s infinite;
 }
 
 .slide2 {
-  background: url(/images/slide3.jpg) no-repeat center;
+  background: url(../images/slide3.jpg) no-repeat center;
   animation: fade2 15s infinite;
 }
 
 .slide3 {
-  background: url(/images/slide4.jpg) no-repeat center;
+  background: url(../images/slide4.jpg) no-repeat center;
   animation: fade3 15s infinite;
 }
 
 .slide4 {
-  background: url(/images/slide1.jpg) no-repeat center;
+  background: url(../images/slide1.jpg) no-repeat center;
   animation: fade4 15s infinite;
 }
 
