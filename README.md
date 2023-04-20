@@ -10,7 +10,7 @@
 ## Vercel link.
 
 
-https://filmpro-build-version-git-main-redirectdev.vercel.app/
+https://interior-git-main-redirectdev.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/124897163/233349099-7e9923bf-9b19-4c12-8c2b-474af25c8202.png)
 
