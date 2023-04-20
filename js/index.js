@@ -103,6 +103,3 @@ window.addEventListener("scroll",  ()=> {
   }
 });
 
-const element=addEventListener('scroll',()=>{
-
-})
