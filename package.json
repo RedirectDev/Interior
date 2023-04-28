@@ -1,0 +1,26 @@
+{
+  "name": "interior-bundled",
+  "version": "1.0.0",
+  "description": "<img align=\"left\" src=\"https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg\" alt=\"JavaScript\" height=\"30px\"> \r <img align=\"left\" src=\"https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg\" alt=\"HTML5\" height=\"30px\"> \r <img align=\"left\" src=\"https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg\" alt=\"CSS3\" height=\"30px\"/><br/>",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.4",
+    "css-loader": "^6.7.3",
+    "file-loader": "^6.2.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.1",
+    "style-loader": "^3.3.2",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.81.0",
+    "webpack-cli": "^5.0.2",
+    "webpack-dev-server": "^4.13.3",
+    "webpack-plugin": "^1.0.5"
+  }
+}
